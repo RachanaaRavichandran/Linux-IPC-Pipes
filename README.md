@@ -24,14 +24,16 @@ Testing the C Program for the desired output.
 # PROGRAM:
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
+```
+
+
+```
 
 
 
 
-
-## OUTPUT
-
-
+## OUTPUT!
+[Alt text](image03/image26.png)
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 
