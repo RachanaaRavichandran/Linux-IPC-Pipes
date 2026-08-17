@@ -186,7 +186,6 @@ void client() {
 
 
 ## OUTPUT
-![Output](https://raw.githubusercontent.com/RachanaaRavichandran/Linux-IPC-Pipes/main/image03/image182.png)
-
+![Output](./image03/output.png)
 # RESULT:
 The program is executed successfully.
